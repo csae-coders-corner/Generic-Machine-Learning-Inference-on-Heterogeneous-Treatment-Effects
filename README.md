@@ -1,4 +1,4 @@
-![CC Graphics 2024_Heterogenouseffects](https://github.com/csae-coders-corner/Generic-Machine-Learning-Inference-on-Heterogeneous-Treatment-Effects/assets/148211163/d860dba1-a0be-4776-a5b8-79e3b718ec5b)
+![CC Graphics 2024_Heterogeneouseffects](https://github.com/csae-coders-corner/Generic-Machine-Learning-Inference-on-Heterogeneous-Treatment-Effects/assets/148211163/fec37214-7c82-459a-a0e1-ba5d4ebe3e20)
 
 # Generic-Machine-Learning-Inference-on-Heterogeneous-Treatment-Effects
 
